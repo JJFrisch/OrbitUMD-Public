@@ -1,72 +1,80 @@
 # OrbitUMD
 
-Academic Planning Infrastructure for Modern Colleges
+Academic planning infrastructure for modern colleges and universities.
 
-OrbitUMD helps institutions deliver a clearer, more connected academic planning experience with a focus on advisor efficiency and measurable institutional ROI.
+OrbitUMD helps institutions deliver a clearer, more connected planning experience with a focus on advisor efficiency and measurable institutional ROI.
 
-## What OrbitUMD Is
+<p>
+	<a href="https://jjfrisch.github.io/OrbitUMD/">Live Preview</a>
+	<span> | </span>
+	<a href="https://github.com/user-attachments/assets/8e5562c5-d055-4589-ac80-13de5229dd99">Product Walkthrough</a>
+</p>
 
-OrbitUMD is a planning platform designed to unify:
+## Overview
 
-- schedule building
-- degree progress visibility
-- multi-term and four-year planning
-- requirement tracking across majors, minors, and Gen Ed pathways
+OrbitUMD unifies the planning workflows institutions depend on every term:
 
-The goal is simple: reduce advising friction, improve student planning quality, and help institutions scale support without scaling headcount at the same rate.
+- Conflict-aware schedule building
+- Degree and requirement progress visibility
+- Multi-term and four-year planning
+- Tracking across majors, minors, and Gen Ed pathways
 
-## Who It Is For
+The outcome is straightforward: less advising friction, stronger student planning quality, and scalable support as enrollment grows.
 
-- Advising teams with high student caseloads
-- Colleges and universities modernizing planning workflows
-- Academic leadership focused on retention, completion, and operational efficiency
+## Why OrbitUMD
 
-## Key Capabilities
+### For Advising Teams
 
-- Conflict-aware schedule planning
-- Guided long-range planning (semester-by-semester)
-- Degree and requirement progress tracking
-- Advisor-friendly visibility into student pathways and risks
-- Institution-ready deployment and integration paths
+- Run faster sessions with clearer student context
+- Spend less time manually cross-checking requirements
+- Shift toward proactive, pathway-informed conversations
+- Improve continuity between advising touchpoints
 
-## Why Advisors Care
+### For Institutional Leadership
 
-- Faster advising sessions with clearer student context
-- Less time spent manually cross-checking requirements
-- More proactive advising conversations based on pathway signals
-- Better continuity between advising touchpoints
+- Increase advising throughput without matching staffing growth
+- Reduce time-to-plan for student schedules and pathways
+- Support retention and on-time graduation goals
+- Lower operational friction from fragmented planning tools
 
-## Why Institutions Care (ROI)
+## Core Capabilities
 
-- Higher advising throughput without equivalent staffing growth
-- Reduced time-to-plan for student schedules and degree pathways
-- Better retention and on-time graduation support
-- Lower operational friction from fragmented planning tooling
-
-## ROI Measurement Framework
-
-Institutions can evaluate OrbitUMD impact through:
-
-- Average advising session duration (before vs after)
-- Students advised per advisor per term
-- Percent of students with complete multi-term plans
-- Registration issue rates (conflicts, unmet requirements)
-- Term-to-term retention and graduation velocity indicators
-
-## Product Status
-
-OrbitUMD is an actively developed product.
-
-Licensing and source code access are restricted. This repository is for product information only.
+| Capability | What It Enables |
+| --- | --- |
+| Schedule Planning | Detect and resolve conflicts before registration issues escalate |
+| Long-Range Planning | Guide students semester by semester through degree milestones |
+| Requirement Tracking | Visualize completion status across programs and Gen Ed requirements |
+| Advisor Visibility | Surface pathway context and potential risks earlier |
+| Deployment Readiness | Support institution-ready implementation and integrations |
 
 ## Demo and Screenshots
-
-- Product walkthrough: [GitHub attachment](https://github.com/user-attachments/assets/8e5562c5-d055-4589-ac80-13de5229dd99)
-- Live preview: https://jjfrisch.github.io/OrbitUMD/
 
 ![OrbitUMD Dashboard](docs/assets/images/dashboard-screenshot.png)
 ![OrbitUMD Degree Audit](docs/assets/images/degree-audit-screenshot.png)
 ![OrbitUMD Four Year Plan](docs/assets/images/four-year-plan-screenshot.png)
+
+## ROI Measurement Framework
+
+Institutions can evaluate impact with a before/after baseline using metrics such as:
+
+- Average advising session duration
+- Students advised per advisor per term
+- Percent of students with complete multi-term plans
+- Registration issue rates (conflicts and unmet requirements)
+- Term-to-term retention and graduation velocity indicators
+
+## Pilot Engagement Model
+
+1. Discovery: align on advising workflows, data environment, and success metrics
+2. Pilot: run a scoped rollout with advisor teams and KPI baseline tracking
+3. Evaluation: compare advisor efficiency and ROI against baseline
+4. Scale-Up: plan broader institutional deployment
+
+## Product Status
+
+OrbitUMD is actively developed.
+
+Licensing and source code access are restricted. This repository is for product information only.
 
 ## Partnerships and Licensing
 
@@ -77,22 +85,18 @@ For demos, pilot discussions, or licensing inquiries:
 - Email: jjfrisch@outlook.com
 - Website: https://jakefrischmann.me
 
-## Pilot Engagement Model
-
-- Discovery: advising workflow, data environment, and success metrics
-- Pilot: scoped rollout with advisor teams and baseline KPI tracking
-- Evaluation: advisor-efficiency and ROI review against baseline
-- Scale-up: broader institutional deployment planning
-
 ## FAQ
 
 ### Is the source code public?
+
 No. OrbitUMD source code is proprietary.
 
 ### Can our institution run a pilot?
+
 Yes. Reach out to discuss pilot scope, timeline, and onboarding.
 
 ### Can OrbitUMD integrate with our existing systems?
+
 Integration options can be scoped during discovery based on your SIS, advising stack, and security requirements.
 
 ## About
