@@ -61,7 +61,7 @@ Licensing and source code access are restricted. This repository is for product 
 
 ## Demo and Screenshots
 
-- Product walkthrough: https://github.com/user-attachments/assets/8e5562c5-d055-4589-ac80-13de5229dd99
+- Product walkthrough: [GitHub attachment](https://github.com/user-attachments/assets/8e5562c5-d055-4589-ac80-13de5229dd99)
 - Live preview: https://jjfrisch.github.io/OrbitUMD/
 
 ![OrbitUMD Dashboard](docs/assets/images/dashboard-screenshot.png)
