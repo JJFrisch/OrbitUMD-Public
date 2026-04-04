@@ -7,7 +7,7 @@ OrbitUMD helps institutions deliver a clearer, more connected planning experienc
 <p>
 	<a href="https://jjfrisch.github.io/OrbitUMD/" target="_blank" rel="noopener noreferrer">Live Preview</a>
 	<span> | </span>
-	<a href="https://github.com/user-attachments/assets/8e5562c5-d055-4589-ac80-13de5229dd99" target="_blank" rel="noopener noreferrer">Product Walkthrough</a>
+	<a href="https://jjfrisch.github.io/OrbitUMD/" target="_blank" rel="noopener noreferrer">Product Walkthrough</a>
 </p>
 
 ## Overview
