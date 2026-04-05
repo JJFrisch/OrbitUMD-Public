@@ -1,7 +1,7 @@
 # OrbitUMD
 
 <p align="center">
-	<img src="docs/assets/images/logo-screenshot.png" alt="OrbitUMD logo" width="240" />
+	<img src="docs/assets/orbit-mark.svg" alt="OrbitUMD logo" width="180" />
 </p>
 
 Academic planning infrastructure for modern colleges and universities.

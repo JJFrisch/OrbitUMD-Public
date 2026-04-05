@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-labelledby="title desc">
+  <title id="title">OrbitUMD logo mark</title>
+  <desc id="desc">A minimal orbit ring around a central core with a single accent satellite.</desc>
+  <rect width="256" height="256" fill="none" />
+  <g transform="rotate(-28 128 128)">
+    <ellipse cx="128" cy="128" rx="82" ry="31" fill="none" stroke="#0F172A" stroke-opacity="0.28" stroke-width="10" />
+    <circle cx="187" cy="110" r="10" fill="#F59E0B" />
+  </g>
+  <circle cx="128" cy="128" r="34" fill="#0F172A" />
+  <circle cx="114" cy="114" r="10" fill="rgba(255,255,255,0.16)" />
+</svg>
