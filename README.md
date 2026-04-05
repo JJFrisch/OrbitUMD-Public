@@ -1,5 +1,9 @@
 # OrbitUMD
 
+<p align="center">
+	<img src="docs/assets/images/logo-screenshot.png" alt="OrbitUMD logo" width="240" />
+</p>
+
 Academic planning infrastructure for modern colleges and universities.
 
 OrbitUMD helps institutions deliver a clearer, more connected planning experience with a focus on advisor efficiency and measurable institutional ROI.
@@ -7,7 +11,7 @@ OrbitUMD helps institutions deliver a clearer, more connected planning experienc
 <p>
 	<a href="https://jjfrisch.github.io/OrbitUMD/" target="_blank" rel="noopener noreferrer">Live Preview</a>
 	<span> | </span>
-	<a href="https://jjfrisch.github.io/OrbitUMD/" target="_blank" rel="noopener noreferrer">Product Walkthrough</a>
+	<a href="docs/assets/demo-video.mov" target="_blank" rel="noopener noreferrer">Demo Video</a>
 </p>
 
 
@@ -49,6 +53,10 @@ The outcome is straightforward: less advising friction, stronger student plannin
 | Deployment Readiness | Support institution-ready implementation and integrations |
 
 ## Demo and Screenshots
+
+Demo video:
+
+[Watch the product walkthrough](docs/assets/demo-video.mov)
 
 ![OrbitUMD Dashboard](docs/assets/images/dashboard-screenshot.png)
 ![OrbitUMD Degree Audit](docs/assets/images/degree-audit-screenshot.png)
