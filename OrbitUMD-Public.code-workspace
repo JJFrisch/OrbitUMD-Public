@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "OrbitUMD-Public",
+			"path": "."
+		},
+		{
+			"name": "assets",
+			"path": "../OrbitUMD/docs/assets"
+		}
+	],
+	"settings": {}
+}
